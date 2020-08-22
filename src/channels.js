@@ -1,8 +1,14 @@
-const channelsEducation = []
+const channelsEducation = [
 
-const channelsMusic = []
+]
 
-const channelsEntertainment = []
+const channelsMusic = [
+
+]
+
+const channelsEntertainment = [
+    
+]
 
 const lastVideoIdEducation = []
 const lastVideoIdMusic = []
